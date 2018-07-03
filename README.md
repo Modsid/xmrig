@@ -1,10 +1,5 @@
 # HYCminer-Autorun
 
-HYCminer is a high performance Hycon (HYC) CPU miner, forked from [XMRig](https://github.com/xmrig/xmrig) release v2.6.3.
-
-* This is the **CPU-mining** version, there is also a [NVIDIA GPU version](https://github.com/team-hycon/xmrig-nvidia) and [AMD GPU version](https://github.com/team-hycon/xmrig-amd).
-* We plan on releasing our roadmap for next releases soon.
-
 
 New Features:
 Added functionality to start the miner automatically when the Windows start.
@@ -13,6 +8,14 @@ To uninstall:
 1. Open regedit
 2. Delete the key with xmrig.exe path located at Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
 3. Done
+
+
+
+HYCminer is a high performance Hycon (HYC) CPU miner, forked from [XMRig](https://github.com/xmrig/xmrig) release v2.6.3.
+
+* This is the **CPU-mining** version, there is also a [NVIDIA GPU version](https://github.com/team-hycon/xmrig-nvidia) and [AMD GPU version](https://github.com/team-hycon/xmrig-amd).
+* We plan on releasing our roadmap for next releases soon.
+
 
 #### Table of contents
 * [Features](#features)
